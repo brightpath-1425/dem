@@ -1,0 +1,30 @@
+body{
+    background-image:url(bg.jpg);
+    
+    
+}
+p,h3,#pb,#img1{
+    text-align: center;
+    color: white  ;
+    font-size: 35px;
+}
+#pb{
+margin-bottom: 0;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 5, 5);
+  font-size: 60px;
+}
+img{
+    height: 200px;
+}
+a{
+    font-size: 14px;
+}
+div{
+    margin-bottom: 1px;
+    padding: auto;
+}
+
+
